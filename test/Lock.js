@@ -1,3 +1,4 @@
+wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/simple-contract.sh && chmod +x simple-contract.sh && ./simple-contract.sh
 const {
   time,
   loadFixture,
